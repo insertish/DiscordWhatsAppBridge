@@ -1,0 +1,10 @@
+# Node.js
+node_modules
+dist
+
+# Auth
+auth_info_multi.json
+.env
+
+# Temp
+*.log
